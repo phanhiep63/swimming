@@ -1,0 +1,26 @@
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+
+/* ============================ */
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.d-flex {
+    display: flex;
+}
